@@ -55,7 +55,7 @@ Please make sure to at least pass in an empty resources object on init. Else i18
 
 ### Load using a backend plugin
 
-Each plugin comes with a set of on configuration settings like path to load resources from. Those settings are documented on the individual readme file of each repository.
+Each plugin comes with a set of on configuration settings like path to load resources from. Those settings are documented on the individual readme file of each repository. See [Plugins and Utils](https://www.i18next.com/overview/plugins-and-utils#backends) for a list of backends.
 
 Here is a sample using the [i18next-http-backend](https://github.com/i18next/i18next-http-backend) to load resources from the server.
 
